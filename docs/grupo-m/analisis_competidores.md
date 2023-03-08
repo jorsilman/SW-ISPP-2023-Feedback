@@ -19,3 +19,6 @@ sidebar_position: 1
 - Si incluimos aplicaciones relacionadas que se usarán para inspiración, habrá que dividir el análisis en competición propia y productos relacionados. De todas formas, tendremos que centrarnos en los competidores y diferencias con ellos. 
 
 ## Semana 4
+
+## Semana 5
+- Más resumido en la presentación de la próxima semana.
